@@ -1,4 +1,3 @@
-# resources-app-vue
 <a name="readme-top"></a>
 
 <div align="center">
